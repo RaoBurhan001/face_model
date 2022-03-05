@@ -3,7 +3,7 @@ import json
 import cv2
 
 
-url = "http://35.232.11.230:5000/face"
+url = "http://34.136.224.136/face"
 headers = {"content-type": "image/jpg"}
 
 # encode image
